@@ -2,6 +2,6 @@ Hi,
 This is a letter.
 A little bit longer letter.
 
-BR,
+Best Regards,
 
 Viktor
