@@ -1,4 +1,4 @@
 void print_something()
 {
-	printf("Something");
+	printf("Something something");
 }
